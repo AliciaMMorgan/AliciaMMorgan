@@ -1,6 +1,6 @@
 # Alicia M Morgan
 
-PMP‑Certified Innovation Leader • AI‑Fluent PM • Bridging Tradition + Tech  
+PMP‑Certified Innovation Leader - Aerospace & Industrial Engineer - AI‑Fluent PM - Bridging Tradition + Tech
 
 Building **agentic, cross‑industry project management workflows** that close the execution gap between knowing what to do and delivering results.
 
