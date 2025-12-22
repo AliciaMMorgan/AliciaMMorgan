@@ -10,15 +10,15 @@ Building **agentic, cross‑industry project management workflows** that close t
 
 - **Cross‑Industry PM Playbook**  
   Practical playbook for leading technology and innovation across aerospace, government, nonprofit, education, and enterprise environments.  
-  → [cross-industry-pm-playbook-ai-transformation](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)[attached_file:1]
+  → [cross-industry-pm-playbook-ai-transformation](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
 
 - **Innovation‑In‑Action**  
   Agents, PM risk assessors, and prompt libraries that operationalize governance, risk, and value realization for AI and analytics initiatives.  
-  → [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action)[attached_file:1]
+  → [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
 - **Speaking‑Resources**  
   Talks, articles, and key takeaways (TEDx, PMI, EWTG, ProjectBites) showing how these frameworks and agents are used in practice.  
-  → [Speaking-Resources](https://github.com/AliciaMMorgan/Speaking-Resources)[attached_file:2]
+  → [Speaking-Resources](https://github.com/AliciaMMorgan/Speaking-Resources)
 
 ---
 
@@ -31,7 +31,7 @@ From June–December 2025, I created a **five‑repository ecosystem** that move
 - **Speaking‑Resources**, plus the **Operational‑Excellence‑Toolkit** and forked **agents** repo – social proof, team‑ready tools, and production‑grade multi‑agent patterns that inform Q1 2026 deployments.
 
 📖 **Full story:**  
-[What I Built in 2025: AI Fluency](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)[attached_file:1]
+[What I Built in 2025: AI Fluency](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
 
 ---
 
