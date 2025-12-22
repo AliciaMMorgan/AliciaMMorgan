@@ -33,7 +33,7 @@ From June–December 2025, I created a **five‑repository ecosystem** that move
 📖 **Full story:**  
 [A Playbook for Leading Technology and Innovation in Traditional Environments](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/tree/main/presentations/2025-11-EWTG-Conference)
 
-[What I Built in 2025: AI Fluency](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
+[What I Built in 2025: AI Fluency Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
 
 
 ---
