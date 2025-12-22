@@ -31,7 +31,9 @@ From June–December 2025, I created a **five‑repository ecosystem** that move
 - **Speaking‑Resources**, plus the **Operational‑Excellence‑Toolkit** and forked **agents** repo – social proof, team‑ready tools, and production‑grade multi‑agent patterns that inform Q1 2026 deployments.
 
 📖 **Full story:**  
+[A Playbook for Leading Technology and Innovation in Traditional Environments](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/tree/main/presentations/2025-11-EWTG-Conference)
 [What I Built in 2025: AI Fluency](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
+
 
 ---
 
