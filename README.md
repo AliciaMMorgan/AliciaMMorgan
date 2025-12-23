@@ -58,7 +58,7 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 
 ---
 
-## Currently 🚀
+## Currently 
 
 - 🔭 **Currently working on**  
   - PM Risk Assessor and governance agents in **Innovation‑In‑Action**, moving from tested prompts to Q1 2026 agent deployments across healthcare, aerospace, education, and heavily regulated environments. 
