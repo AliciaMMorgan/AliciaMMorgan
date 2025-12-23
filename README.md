@@ -40,7 +40,7 @@ From June–December 2025, I created a **five‑repository ecosystem** that move
 
 **From Traditional PM to AI-Fluent Leader** (June–December 2025)
 
-### [📊 View the Complete Visual Journey →](carousel/9-steps-traditional-pm-to-ai-fluent-leader.pdf)
+### [📊 View the Complete Visual Journey →]([https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)
 
 This carousel documents the 6-month transformation from traditional PM to building AI agents:
 
