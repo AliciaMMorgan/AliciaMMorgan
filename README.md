@@ -36,6 +36,23 @@ From June–December 2025, I created a **five‑repository ecosystem** that move
 
 [What I Built in 2025: AI Fluency Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
 
+## 🎯 Featured: 9-Step Career Framework
+
+**From Traditional PM to AI-Fluent Leader** (June–December 2025)
+
+### [📊 View the Complete Visual Journey →](carousel/9-steps-traditional-pm-to-ai-fluent-leader.pdf)
+
+This carousel documents the 6-month transformation from traditional PM to building AI agents:
+
+| **Phase** | **Focus** | **Key Outcome** |
+|-----------|-----------|-----------------|
+| Foundation | Aerospace + Industrial Engineering | Structure that enables governance & scale |
+| Evolution | Cross-sector fluency (aerospace → education → nonprofit) | Pattern recognition across industries |
+| Transformation | AI ecosystem building | Working agents, PM Risk Assessor, frameworks |
+
+**Why this framework matters:**  
+The same principles that guided my pivot—process mapping, cross-sector patterns, building in public—can help you navigate yours.
+
 
 ---
 
