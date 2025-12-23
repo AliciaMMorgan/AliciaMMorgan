@@ -36,6 +36,8 @@ From June to December 2025, I created a **five-repository ecosystem** that moves
 
 [What I Built in 2025: AI Fluency Blog]([https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf))
 
+---
+
 ## 🎯 Featured: 9-Step Career Framework
 
 **From Traditional PM to AI-Fluent Leader** (June–December 2025)
