@@ -25,7 +25,7 @@ Building **agentic, cross‑industry project management workflows** that close t
 
 ## What I built in 2025 ⚙️🤝🤖
 
-From June–December 2025, I created a **five‑repository ecosystem** that moves from knowledge → implementation → trust.
+From June to December 2025, I created a **five-repository ecosystem** that moves from knowledge to implementation to trust.
 
 - **Cross‑Industry PM Playbook** – knowledge foundation (patterns, frameworks, and lessons across sectors).  
 - **Innovation‑In‑Action** – executable agents, PM Risk Assessor prompts, and governance workflows.  
@@ -40,7 +40,7 @@ From June–December 2025, I created a **five‑repository ecosystem** that move
 
 **From Traditional PM to AI-Fluent Leader** (June–December 2025)
 
-### [📊 View the Complete Visual Journey →]([https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)
+### [📊 View the Complete Visual Journey →]([https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)]
 
 This carousel documents the 6-month transformation from traditional PM to building AI agents:
 
