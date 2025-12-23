@@ -61,7 +61,7 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 ## Currently 
 
 - 🔭 **Currently working on**  
-  - PM Risk Assessor and governance agents in **Innovation‑In‑Action**, moving from tested prompts to Q1 2026 agent deployments across healthcare, aerospace, education, and heavily regulated environments. 
+  - PM Risk Assessor and governance agents in **[Innovation‑In‑Action Repo](https://github.com/AliciaMMorgan/Innovation-In-Action)**, moving from tested prompts to Q1 2026 agent deployments across healthcare, aerospace, education, and heavily regulated environments. 
   - Expanding the **Operational‑Excellence‑Toolkit** with team‑ready canvases and checklists that pair with these agents so organizations can adopt AI without losing control of risk or value delivery.
 
 - 🌱 **Currently learning**  
