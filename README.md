@@ -1,5 +1,10 @@
 # Alicia M Morgan
 
+[![PMP](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.pmi.org/certifications/project-management-pmp)
+[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
+
+
 ### **PMP‐Certified Innovation Leader | Aerospace & Industrial Engineer | AI‐Fluent PM** | **Bridging Tradition + Tech**
 
 Building **agentic, cross‑industry project management workflows** that close the execution gap between knowing what to do and delivering results.
