@@ -21,7 +21,7 @@ Leaders hire me to operationalize innovation reliably, transforming slideware in
   → [cross-industry-pm-playbook-ai-transformation](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
 
 - **Innovation‑In‑Action**  
-  Agents, PM risk assessors, and prompt libraries that operationalize governance, risk, and value realization for AI and analytics initiatives.  
+  Agents, PM risk assessors, and prompt libraries that operationalize governance, risk, compliance and value realization for AI and analytics initiatives.  
   → [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
 - **Speaking‑Resources**  
