@@ -2,8 +2,15 @@
 
 ### **PMP‐Certified Innovation Leader | Aerospace & Industrial Engineer | AI‐Fluent PM** | **Bridging Tradition + Tech**
 
-
 Building **agentic, cross‑industry project management workflows** that close the execution gap between knowing what to do and delivering results.
+
+---
+
+## What Problem I Solve 🎯
+
+Organizations have AI strategies and playbooks—but execution fails: pilots stall, teams misalign, executives doubt ROI.  
+**I close the execution gap** by bridging **knowledge → implementation → trust**: turning frameworks into agentic workflows, de-risking delivery with governance, and proving value through shipped outcomes.  
+Leaders hire me to operationalize innovation reliably, transforming slideware into measurable enterprise impact.
 
 ---
 
@@ -55,7 +62,6 @@ This carousel documents the 6-month transformation from traditional PM to buildi
 **Why this framework matters:**  
 The same principles that guided my pivot—process mapping, cross-sector patterns, building in public—can help you navigate yours.
 
-
 ---
 
 ## Currently 
@@ -78,5 +84,3 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 - [LinkedIn](https://www.linkedin.com/in/aliciammorgan1)  
 - [Website](https://aliciammorgan.com)  
 - [YouTube (talks & clips)](https://youtube.com/@AMMorgan)
-  
-
