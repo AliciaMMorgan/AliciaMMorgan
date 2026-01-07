@@ -53,7 +53,8 @@ From June to December 2025, I created a **five-repository ecosystem** that moves
 
 This carousel documents the 6-month transformation from traditional PM to building AI agents:
 
-| **Phase** | **Focus** | **Key Outcome** |
+| **Phase** | **Focus** | 
+**Key Outcome** |
 |-----------|-----------|-----------------|
 | Foundation | Aerospace + Industrial Engineering | Structure that enables governance & scale |
 | Evolution | Cross-sector fluency (aerospace → education → nonprofit) | Pattern recognition across industries |
@@ -68,7 +69,8 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 
 - 🔭 **Currently working on**  
   - PM Risk Assessor and governance agents in **[Innovation‑In‑Action Repo](https://github.com/AliciaMMorgan/Innovation-In-Action)**, moving from tested prompts to Q1 2026 agent deployments across healthcare, aerospace, education, and heavily regulated environments. 
-  - Expanding the **Operational‑Excellence‑Toolkit** with team‑ready canvases and checklists that pair with these agents so organizations can adopt AI without losing control of risk or value delivery.
+  - Expanding the **Operational‑Excellence‑
+Toolkit** with team‑ready canvases and checklists that pair with these agents so organizations can adopt AI without losing control of risk or value delivery.
 
 - 🌱 **Currently learning**  
   - Advanced multi‑agent orchestration patterns from the forked **agents** repo (91 agents, 47 skills, 15 orchestrators) to inform production‑ready workflows that PMs can actually govern. 
