@@ -2,6 +2,7 @@
 
 [![PMP](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.pmi.org/certifications/project-management-pmp)
 [![PMI Agile Metrics Micro Credential](https://img.shields.io/badge/PMI%20Agile%20Metrics%20Micro%20Credential-Completed-blueviolet?logo=project-management-institute&logoColor=white)](https://www.credly.com/badges/5f4cbf52-eae7-4cc6-9be5-35332989d02a)
+[![Vanderbilt Prompt Engineering](https://img.shields.io/badge/Vanderbilt%20Prompt%20Engineering%20for%20ChatGPT-Completed-green?logo=coursera&logoColor=white)](https://www.coursera.org/learn/prompt-engineering)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 
