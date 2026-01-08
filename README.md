@@ -1,7 +1,7 @@
 # Alicia M Morgan
 
 [![PMP](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.pmi.org/certifications/project-management-pmp)
-[![PMI Agile Metrics](https://img.shields.io/badge/PMI%20Agile%20Metrics-Completed-blueviolet?logo=project-management-institute&logoColor=white)](https://www.credly.com/badges/94c63a01-87ec-4d61-a2da-a45d6e1dd2a4)
+[![PMI Agile Metrics](https://img.shields.io/badge/PMI%20Agile%20Metrics-Completed-blueviolet?logo=project-management-institute&logoColor=white)](https://www.credly.com/badges/5f4cbf52-eae7-4cc6-9be5-35332989d02a)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 
