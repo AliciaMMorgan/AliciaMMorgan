@@ -13,7 +13,6 @@
 **Dallas Business Journal Women in Technology Awards Advocate Honoree (2019)**  
 Recognized as VP Education at Frontiers of Flight Museum for STEM innovation reaching 45K+ students annually—early tech advocacy bridging to AI governance today.
 
-
 ---
 ### **PMP‐Certified Innovation Leader | Aerospace & Industrial Engineer | AI‐Fluent PM** | **Bridging Tradition + Tech**
 
