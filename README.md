@@ -79,19 +79,21 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 
 ---
 
-## Currently 
+## Currently 🚀
 
-- 🔭 **Currently working on**  
-  - PM Risk Assessor and governance agents in **[Innovation‑In‑Action Repo](https://github.com/AliciaMMorgan/Innovation-In-Action)**, moving from tested prompts to a Q1 2026 agent deployment. 
-  - Expanding the **Operational‑Excellence‑
-Toolkit** with team‑ready canvases and checklists that pair with these agents so organizations can adopt AI without losing control of risk or value delivery.
+* 🔭 **Currently working on**
 
-- 🌱 **Currently learning**  
-  - Advanced multi‑agent orchestration patterns from the forked **agents** repo (91 agents, 47 skills, 15 orchestrators) to inform production‑ready workflows that PMs can actually govern. 
-  - Best practices for responsible AI adoption using NIST AI RMF and enterprise project management frameworks to keep humans in the loop while scaling automation.
+  + Q1 2026 prototype complete — Cross-Industry AI Agent built in **Microsoft Azure AI Foundry**, validated through scenario-based acceptance tests across healthcare, aerospace, and education PM environments. Moving toward Version 2 expansion with an Evidence Ladder linking AI actions to executive decision thresholds.
+  + Active SME AI Coach engagement guiding non-technical teams through responsible AI adoption using Human-in-the-Loop frameworks, staged fluency progressions, and cross-industry pattern recognition.
 
-- 💬 **Ask me about**  
-  - Closing the execution gap between strategy decks and shipped outcomes using AI‑fluent project management, cross‑industry playbooks, and agentic workflows.
+* 🌱 **Currently learning**
+
+  + Structured AI initiative categorization using PMI's **CPMAI framework** (IIL-trained) — distinguishing project-level experiments from portfolio-level implementations before recommending deployment paths.
+  + Enterprise agent governance patterns: when Copilot Studio is sufficient versus when Azure AI Foundry is required for full lifecycle evaluation, safety testing, and scalable architecture.
+
+* 💬 **Ask me about**
+
+  + Why PMs are not struggling with AI tools — they are struggling with positioning AI inside organizational reality. Stage confusion, business value translation gaps, and governance timing misalignment are the real blockers. That is what the agent was built to solve.
 
 ---
 
