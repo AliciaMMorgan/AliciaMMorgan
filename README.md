@@ -6,6 +6,12 @@
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 
+<!-- Momentum Badges -->
+[![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Commits](https://img.shields.io/github/commit-activity/m/AliciaMMorgan/Innovation-In-Action)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+
+
 ## 🏆 Awards
 
 [![DBJ Women in Tech](https://img.shields.io/badge/DBJ-Women%20in%20Technology%202019-blueviolet?style=flat-square&logo=business-journal)](https://www.bizjournals.com/dallas/news/2019/05/14/alicia-morgan-2019-women-in-technology.html)
