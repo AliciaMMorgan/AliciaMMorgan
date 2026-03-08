@@ -20,9 +20,9 @@
 Recognized as VP Education at Frontiers of Flight Museum for STEM innovation reaching 45K+ students annually—early tech advocacy bridging to AI governance today.
 
 ---
-### **PMP‐Certified Innovation Leader | Aerospace & Industrial Engineer | AI‐Fluent PM** | **Human-in-the-Loop Agents for Regulated & Adaptable Industries**
+### **PMP‐Certified Innovation Leader | Aerospace & Industrial Engineer | AI‐Fluent PM** | **Human-in-the-Loop AI for Regulated & Adaptable Industries**
 
-**AI-Fluent PM: Human-in-the-loop agents for regulated & adaptable industries. Fork to collaborate.**
+**AI-Fluent PM: Human-in-the-loop AI for regulated & adaptable industries. Fork to collaborate.**
 
 ---
 
