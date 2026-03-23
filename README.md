@@ -51,7 +51,9 @@ Leaders hire me to operationalize innovation reliably, transforming slideware in
 
 ---
 
-## What I built in 2025 ⚙️🤝🤖
+## What I built ⚙️🤝🤖
+
+I’ve built and shared public AI‑fluency systems: GitHub agent playbooks, cross‑industry PM repositories, and NotebookLM explainer videos. I’ve also created AI‑driven demos that turn abstract AI concepts into repeatable workflows and reusable artifacts for PMs and leaders.
 
 From June to December 2025, I created a **five-repository ecosystem** that moves from knowledge to implementation to trust.
 
