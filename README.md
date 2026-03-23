@@ -64,9 +64,9 @@ From June to December 2025, I created a **five-repository ecosystem** that moves
 📖 **Full story:**  
 [A Playbook for Leading Technology and Innovation in Traditional Environments](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/tree/main/presentations/2025-11-EWTG-Conference)
 
-[What I Built in 2025: AI Fluency Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
-
 [NotebookLM Explainer Videos](https://youtube.com/playlist?list=PL-_GQRkDTzvRxy0C-FqsMNayb6-thfE7A&si=88Z2h9u8OH7k7IqS)
+
+[What I Built in 2025: AI Fluency Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
 
 ## 🎯 Featured: 9-Step Career Framework
 
