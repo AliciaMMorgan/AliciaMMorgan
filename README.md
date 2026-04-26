@@ -31,7 +31,7 @@ Recognized as VP Education at Frontiers of Flight Museum for STEM innovation rea
 
 Organizations have AI strategies and playbooks—but execution fails: pilots stall, teams misalign, executives doubt ROI.  
 **I close the execution gap** by bridging **knowledge → implementation → trust**: turning frameworks into agentic workflows, de-risking delivery with governance, and proving value through shipped outcomes.  
-Leaders hire me to operationalize innovation reliably, transforming slideware into measurable enterprise impact.
+Leaders hire me to operationalize innovation reliably, transforming slide decks into measurable enterprise impact.
 
 ---
 
@@ -93,7 +93,8 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 * 🔭 **Currently working on**
 
   + Q1 2026 prototype complete — Cross-Industry AI Agent built in **Microsoft Azure AI Foundry**, validated through scenario-based acceptance tests across healthcare, aerospace, and education PM environments. Moving toward Version 2 expansion with an Evidence Ladder linking AI actions to executive decision thresholds.
-  + Active **SME AI Coach** engagement guiding non-technical teams through responsible AI adoption using Human-in-the-Loop frameworks, staged fluency progressions, and cross-industry pattern recognition. Learn more here https://aliciammorgan.com/coaching-legacy-organizations-through-ai/
+  + Active **SME AI Coach** engagement guiding non-technical teams through responsible AI adoption using Human-in-the-Loop frameworks, staged fluency progressions, and cross-industry pattern recognition.
+  + **Learn more here**- https://aliciammorgan.com/coaching-legacy-organizations-through-ai/
 
 * 🌱 **Currently learning**
 
