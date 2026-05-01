@@ -29,9 +29,14 @@ Recognized as VP Education at Frontiers of Flight Museum for STEM innovation, re
 
 ## What Problem I Solve 🎯
 
-Organizations have AI strategies and playbooks—but execution fails: pilots stall, teams misalign, executives doubt ROI.  
-**I close the execution gap** by bridging **knowledge → implementation → trust**: turning frameworks into agentic workflows, de-risking delivery with governance, and proving value through shipped outcomes.  
-Leaders hire me to operationalize innovation reliably, transforming slide decks into measurable enterprise impact.
+AI investments often stall when new tools collide with legacy systems, when ownership is unclear, and when stakeholders are at odds. I help organizations align governance, delivery, and adoption so AI initiatives create measurable business value without disrupting the continuity they depend on.
+
+-**AI Coaching**
+ Coaching Legacy Organizations Through AI
+→ [https://aliciammorgan.com/coaching-legacy-organizations-through-ai/]
+
+ What AI Coaching Really Means 
+→ [https://blog.iil.com/what-ai-coaching-really-means/]
 
 ---
 
