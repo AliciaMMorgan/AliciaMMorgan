@@ -31,12 +31,9 @@ Recognized as VP Education at Frontiers of Flight Museum for STEM innovation, re
 
 AI investments often stall when new tools collide with legacy systems, when ownership is unclear, and when stakeholders are at odds. I help organizations align governance, delivery, and adoption so AI initiatives create measurable business value without disrupting the continuity they depend on.
 
--**AI Coaching**
- Coaching Legacy Organizations Through AI
-→ [https://aliciammorgan.com/coaching-legacy-organizations-through-ai/]
-
- What AI Coaching Really Means 
-→ [https://blog.iil.com/what-ai-coaching-really-means/]
+**AI Coaching**
+→[Coaching Legacy Organizations Through AI](https://aliciammorgan.com/coaching-legacy-organizations-through-ai/)
+→[What AI Coaching Really Means](https://blog.iil.com/what-ai-coaching-really-means/)
 
 ---
 
