@@ -100,8 +100,7 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 - **SME AI Coach**
    - Led a 4-member intern team for The GEMS Camp through a 12-week AI-for-Good initiative supporting museum knowledge organization.
   - Guided discovery, prompt design, and human-in-the-loop validation to deliver a Pickaxe-based legacy tool for museum staff planning.
-
-- **Learn more here** → [Coaching Legacy Organizations Through AI](https://aliciammorgan.com/coaching-legacy-organizations-through-ai/)
+  - **Learn more here** → [Coaching Legacy Organizations Through AI](https://aliciammorgan.com/coaching-legacy-organizations-through-ai/)
 
 **🌱 Currently learning**
 
