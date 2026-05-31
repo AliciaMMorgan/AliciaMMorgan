@@ -97,7 +97,10 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 **🔭 Currently working on**
 
 - Q1 2026 prototype complete — Cross-Industry AI Agent built in **Microsoft Azure AI Foundry**, validated through scenario-based acceptance tests across healthcare, aerospace, and education PM environments. Moving toward Version 2 expansion with an Evidence Ladder linking AI actions to executive decision thresholds.
-- Active **SME AI Coach** engagement guiding non-technical teams through responsible AI adoption using human-in-the-loop frameworks, staged fluency progressions, and cross-industry pattern recognition.
+- **SME AI Coach**
+   - Led a 4-member intern team for The GEMS Camp through a 12-week AI-for-Good initiative supporting museum knowledge organization.
+  - Guided discovery, prompt design, and human-in-the-loop validation to deliver a Pickaxe-based legacy tool for museum staff planning.
+
 - **Learn more here** → [Coaching Legacy Organizations Through AI](https://aliciammorgan.com/coaching-legacy-organizations-through-ai/)
 
 **🌱 Currently learning**
