@@ -36,7 +36,7 @@ I believe modernization starts with two questions: What are we building for the 
 
 ## AI Strategy & Technical Evolution
 
-To see how I bridge 15+ years of mission-critical engineering with the agentic AI frontier, read my **[AI Evolution](./AI_EVOLUTION.md)** narrative and download the technical **[Strategic Blueprint: The Agentic Blueprint (PDF)](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)**.
+To see how I bridge 15+ years of mission-critical engineering with the agentic AI frontier, read my **[AI Evolution]([./AI_EVOLUTION.md](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/AI_EVOLUTION.md))** narrative and download the technical **[Strategic Blueprint: The Agentic Blueprint (PDF)](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)**.
 
 This repository is a practical implementation of the **Agentic PM Playbook**, focusing on the "Intelligence + Planning + Tools" formula and objective HHH evaluation benchmarks.
 
