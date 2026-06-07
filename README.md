@@ -34,6 +34,8 @@ AI investments often stall when new tools collide with legacy systems, unclear o
 
 I believe modernization starts with two questions: What are we building for the future, and what must we preserve from the past? That lens shapes how I help teams protect institutional knowledge, stakeholder trust, and operational continuity while creating practical paths to AI adoption.
 
+My process is tool-agnostic: discovery, knowledge base design, prompting, validation, and delivery adapt to the organization’s platform.
+
 ## AI Strategy & Technical Evolution
 
 To see how I bridge 15+ years of mission-critical engineering with the agentic AI frontier, read my **[AI Evolution](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/AI_EVOLUTION.md)** narrative and download the technical **[Strategic Blueprint: The Agentic Blueprint (PDF)](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)**.
@@ -70,6 +72,8 @@ From June to December 2025, I created a **five-repository ecosystem** that moves
 - **Innovation-In-Action** — executable agents, PM Risk Assessor prompts, and governance workflows.
 - **Speaking-Resources**, along with the **Operational-Excellence-Toolkit** and forked **agents** repository — social proof, team-ready tools, and production-grade multi-agent patterns informing 2026 deployments.
 
+For the background behind this AI coaching and modernization work, read my [AI Evolution](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/AI_EVOLUTION.md) narrative.
+
 📖 **Full story**  
 [A Playbook for Leading Technology and Innovation in Traditional Environments](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/tree/main/presentations/2025-11-EWTG-Conference)
 
@@ -87,9 +91,8 @@ From June to December 2025, I created a **five-repository ecosystem** that moves
 
 This carousel documents the 6-month transformation from traditional PM to building AI agents.
 
-|---|---|---|
 | Phase | Focus | Key Outcome |
-|---|---|---|
+| --- | --- | --- |
 | Foundation | Aerospace + Industrial Engineering | Structure that enables governance and scale |
 | Evolution | Cross-sector fluency (aerospace → education → nonprofit) | Pattern recognition across industries |
 | Transformation | AI ecosystem building | Working agents, PM Risk Assessor, and frameworks |
@@ -115,4 +118,3 @@ The same principles that guided my pivot—process mapping, cross-sector pattern
 
 - Why PMs are not struggling with AI tools—they are struggling with positioning AI inside organizational reality.
 - Stage confusion, business value translation gaps, and governance.
-```
