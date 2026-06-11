@@ -10,8 +10,6 @@ I help organizations modernize through AI without losing trust, governance, or o
 [![Vanderbilt Prompt Engineering for ChatGPT](https://img.shields.io/badge/Vanderbilt%20Prompt%20Engineering%20for%20ChatGPT-Completed-green?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/F4C2X5G3MRGF)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
-
----
 [![GitHub Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
 [![GitHub Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
