@@ -99,6 +99,7 @@ A structured transition grounded in governance, execution, and applied AI.
 
 ## Currently
 
+- Currently pursuing Microsoft Certified: AI Business Professional (Exam AB-730)
 - Building cross-industry AI agents in Microsoft Azure AI Foundry with scenario-based validation  
 - Coaching teams on AI adoption using human-in-the-loop workflows  
 
