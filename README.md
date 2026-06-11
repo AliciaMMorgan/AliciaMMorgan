@@ -1,120 +1,107 @@
 # Alicia M Morgan
 
-[![PMP](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
-[![PMI Agile Metrics Micro Credential](https://img.shields.io/badge/PMI%20Agile%20Metrics%20Micro%20Credential-Completed-blueviolet?logo=project-management-institute&logoColor=white)](https://www.credly.com/badges/5f4cbf52-eae7-4cc6-9be5-35332989d02a)
-[![Vanderbilt Prompt Engineering](https://img.shields.io/badge/Vanderbilt%20Prompt%20Engineering%20for%20ChatGPT-Completed-green?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/F4C2X5G3MRGF)
-[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
+AI Transformation Leader | PMP  
 
-<!-- Momentum Badges -->
-[![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-[![Commits](https://img.shields.io/github/commit-activity/m/AliciaMMorgan/Innovation-In-Action)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-
-## Awards
-
-[![DBJ Women in Tech](https://img.shields.io/badge/DBJ-Women%20in%20Technology%202019-blueviolet?style=flat-square&logo=business-journal)](https://www.bizjournals.com/dallas/news/2019/05/14/alicia-morgan-2019-women-in-technology.html)
-
-**Dallas Business Journal Women in Technology Awards Advocate Honoree (2019)**  
-Recognized for STEM innovation and public impact through education, leadership, and technology-enabled transformation—early advocacy that now connects directly to AI modernization and human-in-the-loop coaching.
+I help organizations modernize through AI without losing trust, governance, or operational continuity.
 
 ---
 
-### PMP-Certified Innovation Leader | AI Fluency Coach | Cross-Industry Project Strategist
+https://img.shields.io/badge/PMP-Certified-blue?logo=project-management](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
+https://img.shields.io/badge/PMI%20Agile%20Metrics%20Micro%20Credential-Completed-blueviolet?logo=project-management-institute&logoColor=white](https://www.credly.com/badges/5f4cbf52-eae7-4cc6-9be5-35332989d02a)
+https://img.shields.io/badge/Vanderbilt%20Prompt%20Engineering%20for%20ChatGPT-Completed-green?logo=coursera&logoColor=white](https://www.coursera.org/account/accomplishments/verify/F4C2X5G3MRGF)
+https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+https://img.shields.io/badge/Python-3.9%2B-blue](https://python.org)
 
-I help legacy and traditional organizations modernize for AI without losing trust, governance, or operational continuity through human-in-the-loop leadership. Open to collaboration via fork or direct engagement.
+<!-- Momentum Badges -->
+https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social](https://github.com/AliciaMMorgan/Innovation-In-Action)
+https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social](https://github.com/AliciaMMorgan/Innovation-In-Action)
+https://img.shields.io/github/commit-activity/m/AliciaMMorgan/Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
-For CIOs, PMOs, and transformation leaders navigating AI in legacy environments.
+---
+
+## Start Here
+
+If you're exploring my work:
+
+- [**Cross-Industry PM Playbook**](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)  
+  → Foundation built from real-world transformation across sectors  
+
+- [**Innovation-In-Action**](https://github.com/AliciaMMorgan/Innovation-In-Action)  
+  → AI workflows, agents, and governance tools for practical execution  
+
+- [**Operational Excellence Toolkit**](https://github.com/AliciaMMorgan/Operational-Excellence-Toolkit)  
+  → Tools and patterns for alignment, decision-making, and delivery  
+
+- [**Speaking Resources**](https://github.com/AliciaMMorgan/Speaking-Resources)  
+  → Insights from real engagements, talks, and applied leadership  
+
+This repository connects strategy, execution, and real-world application of AI-enabled transformation.
+
+---
+
+## External Recognition
+
+- TEDx Speaker  
+- PMI Webinar Contributor (20,000+ viewers)  
+- Dallas Business Journal Women in Tech Honoree  
+- International Institute for Learning Speaker  
 
 ---
 
 ## What Problem I Solve
 
-AI investments often stall when new tools collide with legacy systems, unclear ownership, and stakeholder friction. I help organizations align governance, delivery, and adoption so AI initiatives deliver measurable value without disrupting operational continuity.
+AI initiatives often stall when new tools conflict with legacy systems, unclear ownership, and stakeholder friction. I help organizations align governance, delivery, and adoption so AI produces measurable outcomes without disrupting operations.
 
-I believe modernization starts with two questions: What are we building for the future, and what must we preserve from the past? That lens shapes how I help teams protect institutional knowledge, stakeholder trust, and operational continuity while creating practical paths to AI adoption.
+Modernization raises two questions: what should evolve, and what must be preserved.  
+This approach protects institutional knowledge, stakeholder trust, and continuity while enabling practical adoption.
 
-My process is tool-agnostic: discovery, knowledge base design, prompting, validation, and delivery adapt to the organization’s platform.
-
-## AI Strategy & Technical Evolution
-
-To see how I bridge 15+ years of mission-critical engineering with the agentic AI frontier, read my **[AI Evolution](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/AI_EVOLUTION.md)** narrative and download the technical **[Strategic Blueprint: The Agentic Blueprint (PDF)](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)**.
-
-This repository is a practical implementation of the **Agentic PM Playbook**, focusing on the "Intelligence + Planning + Tools" formula and objective HHH evaluation benchmarks.
-
-### AI Coaching
-
-- [Coaching Legacy Organizations Through AI](https://aliciammorgan.com/coaching-legacy-organizations-through-ai/)
-- [What AI Coaching Really Means](https://blog.iil.com/what-ai-coaching-really-means/)
+My process is tool-agnostic and adapts through discovery, knowledge design, prompting, validation, and delivery.
 
 ---
 
-## 3 Core Anchors of My Work
+## Core Repositories
 
-- **Cross-Industry PM Playbook** — Practical frameworks for leading technology and innovation across aerospace, government, nonprofit, education, and enterprise environments.  
-  [cross-industry-pm-playbook-ai-transformation](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
+- [**Cross-Industry PM Playbook**](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)  
+  Frameworks and lessons from transformation across aerospace, education, nonprofit, and enterprise environments  
 
-- **Innovation-In-Action** — Agents, PM risk assessors, and prompt libraries that operationalize governance, risk, compliance, and value realization for AI and analytics initiatives.  
-  [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
+- [**Innovation-In-Action**](https://github.com/AliciaMMorgan/Innovation-In-Action)  
+  AI agents, prompt libraries, and governance workflows that turn strategy into execution  
 
-- **Speaking-Resources** — Talks, articles, and key takeaways from TEDx, PMI, IBM, EWTG, and ProjectBites showing how these frameworks and agents are used in practice.  
-  [Speaking-Resources](https://github.com/AliciaMMorgan/Speaking-Resources)
+- [**Operational Excellence Toolkit**](https://github.com/AliciaMMorgan/Operational-Excellence-Toolkit)  
+  Tools and operating patterns supporting alignment, decision-making, and outcomes  
+
+- [**Speaking Resources**](https://github.com/AliciaMMorgan/Speaking-Resources)  
+  Talks and applied insights in AI, innovation, and transformation  
 
 ---
 
 ## What I Built
 
-I've built and shared public AI-fluency systems: GitHub agent playbooks, cross-industry PM repositories, NotebookLM explainer videos, and AI-driven demos that turn abstract AI concepts into repeatable workflows and reusable artifacts for PMs and leaders.
+I developed an AI-fluency system that translates strategy into repeatable workflows and practical implementation.
 
-From June to December 2025, I created a **five-repository ecosystem** that moves from knowledge to implementation to trust.
+This ecosystem moves from knowledge to execution to trust:
 
-- **Cross-Industry PM Playbook** — knowledge foundation built from patterns, frameworks, and lessons across sectors.
-- **Innovation-In-Action** — executable agents, PM Risk Assessor prompts, and governance workflows.
-- **Speaking-Resources**, along with the **Operational-Excellence-Toolkit** and forked **agents** repository — social proof, team-ready tools, and production-grade multi-agent patterns informing 2026 deployments.
+- Playbook → foundational patterns  
+- Innovation → AI execution  
+- Toolkit → delivery systems  
+- Speaking → validation through practice  
 
-For the background behind this AI coaching and modernization work, read my [AI Evolution](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/AI_EVOLUTION.md) narrative.
-
-📖 **Full story**  
-[A Playbook for Leading Technology and Innovation in Traditional Environments](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/tree/main/presentations/2025-11-EWTG-Conference)
-
-[NotebookLM Explainer Videos](https://youtube.com/playlist?list=PL-_GQRkDTzvRxy0C-FqsMNayb6-thfE7A&si=88Z2h9u8OH7k7IqS)
-
-[What I Built in 2025: AI Fluency Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
+📖 [Full Story](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)  
+🎥 https://youtube.com/playlist?list=PL-_GQRkDTzvRxy0C-FqsMNayb6-thfE7A
 
 ---
 
-## Featured: 9-Step Career Framework
+## Featured Framework
 
-**From Traditional PM to AI-Fluent Leader** (June–December 2025)
+[From Traditional PM to AI-Fluent Leader](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
-### [📊 View the Complete Visual Journey →](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)
-
-This carousel documents the 6-month transformation from traditional PM to building AI agents.
-
-| Phase | Focus | Key Outcome |
-| --- | --- | --- |
-| Foundation | Aerospace + Industrial Engineering | Structure that enables governance and scale |
-| Evolution | Cross-sector fluency (aerospace → education → nonprofit) | Pattern recognition across industries |
-| Transformation | AI ecosystem building | Working agents, PM Risk Assessor, and frameworks |
-
-**Why this framework matters**  
-The same principles that guided my pivot—process mapping, cross-sector patterns, and building in public—can help others navigate theirs.
+A structured transition grounded in governance, execution, and applied AI.
 
 ---
 
 ## Currently
 
-**🔭 Currently working on**
+- Building cross-industry AI agents in Microsoft Azure AI Foundry with scenario-based validation  
+- Coaching teams on AI adoption using human-in-the-loop workflows  
 
-- Q1 2026 prototype complete — Cross-Industry AI Agent built in **Microsoft Azure AI Foundry**, validated through scenario-based acceptance tests across healthcare, aerospace, and education PM environments. Moving toward Version 2 expansion with an Evidence Ladder linking AI actions to executive decision thresholds.
-- **SME AI Coach** — Led a 4-member intern team for The GEMS Camp through a 12-week AI-for-Good initiative supporting museum knowledge organization. Guided discovery, prompt design, and human-in-the-loop validation to deliver a Pickaxe-based legacy tool for museum staff planning. [Learn more](https://aliciammorgan.com/coaching-legacy-organizations-through-ai/)
-
-**🌱 Currently learning**
-
-- Structured AI initiative categorization using PMI's **CPMAI framework** — distinguishing project-level experiments from portfolio-level implementations before recommending deployment paths.
-- Enterprise agent governance patterns: when Copilot Studio is sufficient versus when Azure AI Foundry is required for full lifecycle evaluation, safety testing, and scalable architecture.
-
-**💬 Ask me about**
-
-- Why PMs are not struggling with AI tools—they are struggling with positioning AI inside organizational reality.
-- Stage confusion, business value translation gaps, and governance.
+Ask me about AI adoption, governance, and translating strategy into execution.
