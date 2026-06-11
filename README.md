@@ -2,7 +2,7 @@
 
 AI Transformation Leader | PMP  
 
-I help organizations modernize through AI without losing trust, governance, or operational continuity.
+I help organizations adopt AI in real-world environments without sacrificing trust, governance, or operational continuity.
 
 ---
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
@@ -32,7 +32,7 @@ If you're exploring my work:
 - [**Speaking Resources**](https://github.com/AliciaMMorgan/Speaking-Resources)  
   → Insights from real engagements, talks, and applied leadership  
 
-This repository connects strategy, execution, and real-world application of AI-enabled transformation.
+This repository connects strategy, execution, and real-world implementation of AI-enabled transformation across industries.
 
 ---
 
