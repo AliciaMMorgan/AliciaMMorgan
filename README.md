@@ -12,7 +12,8 @@ I help organizations adopt AI in real-world environments without sacrificing tru
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![GitHub Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![GitHub Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/AliciaMMorgan/Innovation-In-Action)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Last Commit](https://img.shields.io/github/last-commit/AliciaMMorgan/Innovation-In-Action)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+
 
 ---
 
