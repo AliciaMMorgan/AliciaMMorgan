@@ -1,8 +1,10 @@
 # Alicia M Morgan
 
-AI Transformation Leader | PMP  
+Digital Transformation and AI Adoption Leader | PMP  
 
-I help organizations adopt AI in real-world environments without sacrificing trust, governance, or operational continuity.
+I am the person organizations call when they need to move forward without losing what matters most, including trust, governance, and the people within the organization.
+
+My work focuses on AI-enabled transformation, digital modernization, and cross-platform integration. It improves how organizations operate while preserving their foundation and accelerating execution.
 
 ---
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
