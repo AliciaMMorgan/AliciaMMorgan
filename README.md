@@ -7,16 +7,15 @@ I am the person organizations call when they need to move forward without losing
 My work focuses on AI-enabled transformation, digital modernization, and cross-platform integration. It improves how organizations operate while preserving their foundation and accelerating execution.
 
 ---
-[![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
+[![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
 [![HubSpot Digital Marketing Certified](https://img.shields.io/badge/HubSpot-Digital%20Marketing-orange?logo=hubspot&logoColor=white)](https://app-na2.hubspot.com/academy/achievements/5b4p7p8r/en/1/alicia-morgan/digital-marketing)
-[![PMI Agile Metrics Micro Credential](https://img.shields.io/badge/PMI%20Agile%20Metrics%20Micro%20Credential-Completed-blueviolet?logo=project-management-institute&logoColor=white)](https://www.credly.com/badges/5f4cbf52-eae7-4cc6-9be5-35332989d02a)
-[![Vanderbilt Prompt Engineering for ChatGPT](https://img.shields.io/badge/Vanderbilt%20Prompt%20Engineering%20for%20ChatGPT-Completed-green?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/F4C2X5G3MRGF)
+[![PMI Agile Metrics Micro Credential](https://img.shields.io/badge/PMI%20Agile%20Metrics-Completed-blueviolet?logo=pmi&logoColor=white)](https://www.credly.com/badges/5f4cbf52-eae7-4cc6-9be5-35332989d02a)
+[![Vanderbilt Prompt Engineering for ChatGPT](https://img.shields.io/badge/Vanderbilt%20Prompt%20Engineering-Completed-green?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/F4C2X5G3MRGF)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![GitHub Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![Last Commit](https://img.shields.io/github/last-commit/AliciaMMorgan/Innovation-In-Action)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-
 
 ---
 
