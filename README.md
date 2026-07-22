@@ -45,7 +45,8 @@ This repository connects strategy, execution, and real-world implementation of A
 
 - TEDx Speaker  
 - PMI Webinar Contributor (20,000+ viewers)  
-- Dallas Business Journal Women in Tech Honoree  
+- Dallas Business Journal Women in Tech Honoree
+- UT Dallas Project Management Symposium Panelist Speaker   
 - International Institute for Learning Speaker  
 
 ---
