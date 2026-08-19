@@ -5,6 +5,7 @@ Digital Transformation and AI Adoption Leader | PMP
 I help organizations navigate transformation by aligning people, processes, and technology to deliver measurable business value. My experience spans aerospace, manufacturing, higher education, nonprofit leadership, and AI-enabled initiatives, helping organizations improve operations, strengthen collaboration, and adopt new ways of working.
 
 **How I Lead**
+
  Build trust → Observe and understand the work → Collaborate and design practical, human-centered solutions → Enable meaningful change
 
 My work focuses on AI-enabled transformation, digital modernization, and cross-platform integration. It improves how organizations operate while preserving their foundation and accelerating execution.
