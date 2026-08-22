@@ -12,7 +12,7 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 
 ---
 
-[![PMP Certified](https://img.shields.io/badge/PMI-PMP®_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
+[![PMP Certified](https://img.shields.io/badge/PMI-PMP®_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)]([https://www.credly.com/users/alicia-morgan.4f633109/badges](https://www.credly.com/badges/66813e58-ca9d-441b-8121-0e9535344ddf)
 [![Credly Verified](https://img.shields.io/badge/Credly-View_All_Verified_Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
 
 ---
