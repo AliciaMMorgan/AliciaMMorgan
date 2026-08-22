@@ -22,8 +22,7 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 [![Credly Transcript](https://img.shields.io/badge/Credly-All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
 
 **Governance & Architecture:** `NIST AI RMF` • `BigQuery & Cloud Pipelines` • `Tableau Decision Layers` • `Python 3.x` • `Azure AI Foundry`
-
----
+-
 
 ---
 
