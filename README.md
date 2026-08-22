@@ -48,7 +48,7 @@ This repository connects strategy, execution, and real-world implementation of A
 ## External Recognition
 
 - TEDx Speaker  
-- PMI Webinar Contributor (20,000+ viewers)  
+- PMI Webinar Contributor (20,000+ viewers and 4+ Star Rating)
 - Dallas Business Journal Women in Tech Honoree
 - UT Dallas Project Management Symposium Panelist Speaker   
 - International Institute for Learning, International Project Management Day Speaker  
