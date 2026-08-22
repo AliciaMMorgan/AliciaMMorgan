@@ -12,15 +12,19 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 
 ---
 
-[![PMP](https://img.shields.io/badge/PMP-PMI-blue?style=flat&logo=pmi&logoColor=white)](https://community.pmi.org/profile/aliciamorgan1)
-[![Google AI](https://img.shields.io/badge/Google_AI-Professional_Certificate-34A853?style=flat&logo=google&logoColor=white)](https://aliciammorgan.com)
-[![Google BI](https://img.shields.io/badge/Google_BI-Professional_Certificate-4285F4?style=flat&logo=google&logoColor=white)](https://coursera.org)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-BigQuery_%26_Analytics-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Public_Portfolio-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com)
-[![PMI Agile Metrics](https://img.shields.io/badge/PMI-Agile_Metrics_Micro_Credential-brightgreen?style=flat)](https://pmi.org)
-[![Vanderbilt Prompt Engineering](https://img.shields.io/badge/Vanderbilt-Prompt_Engineering-darkred?style=flat)](https://coursera.org)
-[![NIST AI RMF](https://img.shields.io/badge/NIST-AI_RMF_Framework-informational?style=flat)](https://nist.gov)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![PMP Certified](https://img.shields.io/badge/PMI-PMP®_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
+[![Credly Verified](https://img.shields.io/badge/Credly-View_All_Verified_Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
+
+---
+
+### Verified Credentials & Professional Certifications
+* **Project Management Professional (PMP)®** — Project Management Institute ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
+* **Google AI Professional Certificate** — Google ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
+* **Google Business Intelligence Professional Certificate** — Google ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
+* **PMI Agile Metrics Micro-Credential** — Project Management Institute ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
+
+### Core Frameworks & Toolchain
+`NIST AI RMF` • `Google Cloud / BigQuery` • `Tableau` • `Python 3.x` • `Microsoft Azure AI Foundry`
 
 
 ---
