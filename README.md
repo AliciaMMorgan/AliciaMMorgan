@@ -26,9 +26,6 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 ---
 
 ---
----
-
----
 
 ## Start Here
 
