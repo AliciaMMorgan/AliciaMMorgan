@@ -12,20 +12,20 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 
 ---
 
-[![PMP Certified](https://img.shields.io/badge/PMI-PMP®_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)]([https://www.credly.com/users/alicia-morgan.4f633109/badges](https://www.credly.com/badges/66813e58-ca9d-441b-8121-0e9535344ddf)
-[![Credly Verified](https://img.shields.io/badge/Credly-View_All_Verified_Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
+[![PMP Certified](https://img.shields.io/badge/PMI-PMP®_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/badges/66813e58-ca9d-441b-8121-0e9535344ddf)
+[![PMI Agile Metrics](https://img.shields.io/badge/PMI-Agile_Metrics-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/badges/63973014-1279-4e8c-b052-9da533ead363)
+[![Credly Transcript](https://img.shields.io/badge/Credly-All_Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
 
 ---
 
 ### Verified Credentials & Professional Certifications
-* **Project Management Professional (PMP)®** — Project Management Institute ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
-* **Google AI Professional Certificate** — Google ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
-* **Google Business Intelligence Professional Certificate** — Google ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
-* **PMI Agile Metrics Micro-Credential** — Project Management Institute ([Verify on Credly](https://www.credly.com/users/alicia-morgan.4f633109/badges))
+* **Project Management Professional (PMP)®** — Project Management Institute ([Verify Credential](https://www.credly.com/badges/66813e58-ca9d-441b-8121-0e9535344ddf))
+* **PMI Agile Metrics Micro-Credential** — Project Management Institute ([Verify Credential](https://www.credly.com/badges/63973014-1279-4e8c-b052-9da533ead363))
+* **Google AI Professional Certificate** — Google ([Verify on Credly Profile](https://www.credly.com/users/alicia-morgan.4f633109/badges))
+* **Google Business Intelligence Professional Certificate** — Google ([Verify on Credly Profile](https://www.credly.com/users/alicia-morgan.4f633109/badges))
 
 ### Core Frameworks & Toolchain
 `NIST AI RMF` • `Google Cloud / BigQuery` • `Tableau` • `Python 3.x` • `Microsoft Azure AI Foundry`
-
 
 ---
 
