@@ -108,7 +108,10 @@ A structured transition grounded in governance, execution, and applied AI.
 
 ## Currently
 
-- Building cross-industry AI agents in Microsoft Azure AI Foundry with scenario-based validation  
-- Coaching teams on AI adoption using human-in-the-loop workflows  
-
-Ask me about AI adoption, governance, and translating strategy into execution.
+### 🔭 Currently Focused On
+* **Enterprise Transformation & Keynotes:** Advising and speaking on cross-ecosystem AI fluency, governance, and delivery modernization for enterprise and mission-driven organizations.
+* **Decision Intelligence & Telemetry:** Bridging cloud data pipelines (BigQuery/SQL) with executive BI decision layers (Tableau) for transformation oversight.
+* **Applied AI Architecture:** Expanding cross-industry agent prototypes in **Microsoft Azure AI Foundry** and completing the **Google Business Intelligence** professional credential.
+* **Mentorship & Community:** Serving as an SME AI coach guiding mission-driven teams in human-in-the-loop validation and AI-for-good execution.
+  
+## Ask me about AI adoption, governance, and translating strategy into execution.
