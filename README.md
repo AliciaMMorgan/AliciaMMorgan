@@ -98,14 +98,6 @@ This ecosystem moves from knowledge to execution to trust:
 
 ---
 
-## Featured Framework
-
-[From Traditional PM to AI-Fluent Leader](https://github.com/AliciaMMorgan/Innovation-In-Action)
-
-A structured transition grounded in governance, execution, and applied AI.
-
----
-
 ## Currently
 
 ### 🔭 Currently Focused On
