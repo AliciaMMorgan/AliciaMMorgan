@@ -106,4 +106,4 @@ This ecosystem moves from knowledge to execution to trust:
 * **Applied AI Architecture:** Expanding cross-industry agent prototypes in **Microsoft Azure AI Foundry** and completing the **Google Business Intelligence** professional credential.
 * **Mentorship & Community:** Serving as an SME AI coach guiding mission-driven teams in human-in-the-loop validation and AI-for-good execution.
   
-## Ask me about AI adoption, governance, and translating strategy into execution.
+## Ask me about AI adoption, Human in the Loop AI and Digital Transformation Strategies.
