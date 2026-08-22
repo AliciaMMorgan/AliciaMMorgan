@@ -15,13 +15,15 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 [![PMP Certified](https://img.shields.io/badge/PMP®-PMI_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/badges/66813e58-ca9d-441b-8121-0e9535344ddf)
 [![PMI Agile Metrics](https://img.shields.io/badge/PMI-Agile_Metrics-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/badges/63973014-1279-4e8c-b052-9da533ead363)
 [![Google AI Professional](https://img.shields.io/badge/Google_AI-Professional_Certificate-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/9IW3BF06S8XW)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft-AI_Foundry_%26_Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/achievements/crf7zmc9)
+[![Microsoft Learn Transcript](https://img.shields.io/badge/Microsoft_Learn-Transcript_%26_Badges-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/transcript)
 [![Google Cloud Digital Leader](https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/LWDIVV6Q5Y2E)
 [![Google Gen AI Leader](https://img.shields.io/badge/Google-Gen_AI_Leader-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/EKZXOW3IXMV1)
 [![Google BI Foundations](https://img.shields.io/badge/Google-BI_Foundations-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/TJRLG9VBW51Q)
 [![Credly Transcript](https://img.shields.io/badge/Credly-All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
 
 **Governance & Architecture:** `NIST AI RMF` • `BigQuery & Cloud Pipelines` • `Tableau Decision Layers` • `Python 3.x` • `Azure AI Foundry`
+
+---
 
 ---
 ---
