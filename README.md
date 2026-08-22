@@ -11,8 +11,11 @@ I help organizations navigate transformation by aligning people, processes, and 
 My work focuses on AI-enabled transformation, digital modernization, and cross-platform integration. It improves how organizations operate while preserving their foundation and accelerating execution.
 
 ---
+
 [![PMP Certified](https://img.shields.io/badge/PMP®-PMI_Certified-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/badges/66813e58-ca9d-441b-8121-0e9535344ddf)
 [![PMI Agile Metrics](https://img.shields.io/badge/PMI-Agile_Metrics-007396?style=for-the-badge&logo=pmi&logoColor=white)](https://www.credly.com/badges/63973014-1279-4e8c-b052-9da533ead363)
+[![Google AI Professional](https://img.shields.io/badge/Google_AI-Professional_Certificate-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/84a81bb5-f7a5-4ec2-9502-5ab69cc65c1b)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-AI_Foundry_%26_Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/achievements/crf7zmc9)
 [![Google Cloud Digital Leader](https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/LWDIVV6Q5Y2E)
 [![Google Gen AI Leader](https://img.shields.io/badge/Google-Gen_AI_Leader-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/EKZXOW3IXMV1)
 [![Google BI Foundations](https://img.shields.io/badge/Google-BI_Foundations-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/TJRLG9VBW51Q)
