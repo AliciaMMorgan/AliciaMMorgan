@@ -115,4 +115,4 @@ This ecosystem moves from knowledge to execution to trust:
   mission-driven teams in human-in-the-loop validation and AI-for-good 
   execution.
   
-## Ask me about AI adoption, Human in the Loop AI and Digital Transformation Strategies.
+## Ask me about AI adoption, Human in the Loop AI Governance and Digital Transformation Strategies.
