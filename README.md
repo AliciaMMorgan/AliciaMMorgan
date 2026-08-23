@@ -18,6 +18,7 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 [![Microsoft Learn Transcript](https://img.shields.io/badge/Microsoft_Learn-Transcript_%26_Badges-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/transcript)
 [![Google Cloud Digital Leader](https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/LWDIVV6Q5Y2E)
 [![Google Gen AI Leader](https://img.shields.io/badge/Google-Gen_AI_Leader-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/EKZXOW3IXMV1)
+[![Google Business Intelligence Certificate]
 https://img.shields.io/badge/Google-Business_Intelligence_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white](https://www.credly.com/badges/3ceb8546-8878-41b3-95fe-75232fe48502)
 [![Credly Transcript](https://img.shields.io/badge/Credly-All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.4f633109/badges)
 
