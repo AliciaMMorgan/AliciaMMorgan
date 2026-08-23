@@ -101,9 +101,18 @@ This ecosystem moves from knowledge to execution to trust:
 ## Currently
 
 ### 🔭 Currently Focused On
-* **Enterprise Transformation & Keynotes:** Advising and speaking on cross-ecosystem AI fluency, governance, and delivery modernization for enterprise and mission-driven organizations.
-* **Decision Intelligence & Telemetry:** Bridging cloud data pipelines (BigQuery/SQL) with executive BI decision layers (Tableau) for transformation oversight.
-* **Applied AI Architecture:** Expanding cross-industry agent prototypes in **Microsoft Azure AI Foundry** and completing the **Google Business Intelligence** professional credential.
-* **Mentorship & Community:** Serving as an SME AI coach guiding mission-driven teams in human-in-the-loop validation and AI-for-good execution.
+* **Enterprise Transformation & Keynotes:** Advising and speaking on 
+  cross-ecosystem AI fluency, governance, and delivery modernization for 
+  enterprise and mission-driven organizations.
+* **Decision Intelligence & Telemetry:** Bridging cloud data pipelines 
+  (BigQuery/SQL) with executive BI decision layers (Tableau) for 
+  transformation oversight.
+* **Applied AI Architecture:** Expanding cross-industry agent prototypes in 
+  **Microsoft Azure AI Foundry**; applying the completed **Google Business 
+  Intelligence** credential through a Tableau dashboard sample in the 
+  Operational Excellence Toolkit.
+* **Mentorship & Community:** Serving as an SME AI coach guiding 
+  mission-driven teams in human-in-the-loop validation and AI-for-good 
+  execution.
   
 ## Ask me about AI adoption, Human in the Loop AI and Digital Transformation Strategies.
