@@ -66,21 +66,6 @@ My process is tool-agnostic and adapts through discovery, knowledge design, prom
 
 ---
 
-## Core Repositories
-
-- [**Cross-Industry PM Playbook**](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)  
-  Frameworks and lessons from transformation across aerospace, education, nonprofit, and enterprise environments  
-
-- [**Innovation-In-Action**](https://github.com/AliciaMMorgan/Innovation-In-Action)  
-  AI agents, prompt libraries, and governance workflows that turn strategy into execution  
-
-- [**Operational Excellence Toolkit**](https://github.com/AliciaMMorgan/Operational-Excellence-Toolkit)  
-  Tools and operating patterns supporting alignment, decision-making, and outcomes  
-
-- [**Speaking Resources**](https://github.com/AliciaMMorgan/Speaking-Resources)  
-  Talks and applied insights in AI, innovation, and transformation  
-
----
 
 ## What I Built
 
