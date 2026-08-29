@@ -29,9 +29,6 @@ My work focuses on AI-enabled transformation, digital modernization, and cross-p
 
 If you're exploring my work:
 
-- [**Cross-Industry PM Playbook**](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)  
-  → Foundation built from real-world transformation across sectors  
-
 - [**Innovation-In-Action**](https://github.com/AliciaMMorgan/Innovation-In-Action)  
   → AI workflows, agents, and governance tools for practical execution  
 
@@ -42,6 +39,9 @@ If you're exploring my work:
   → Insights from real engagements, talks, and applied leadership  
 
 This repository connects strategy, execution, and real-world implementation of AI-enabled transformation across industries.
+
+*Curious where this started? The [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation) is the foundational archive — real-world transformation lessons across aerospace, education, nonprofit, and enterprise that shaped everything above.*
+
 
 ---
 
