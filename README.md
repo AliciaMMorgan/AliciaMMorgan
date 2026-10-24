@@ -113,15 +113,15 @@ Facilitated an enterprise AI adoption workshop exploring workforce readiness, ac
 [![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
 
 #### Participant Feedback
-> "It was a great presentation, very engaging and informative..."
+> "It was a great presentation, very engaging and informative. I learned several useful tips on how to leverage AI features for practicing presentations and receiving feedback to improve delivery and effectiveness."
 >
 > — Emerson Workshop Participant
 
-> "The session provided practical guidance..."
+> "The session provided practical guidance for ensuring AI is used thoughtfully and in alignment with best practices within professional environments."
 >
 > — Emerson Workshop Participant
 
-> "The session was engaging, interactive, and thought-provoking..."
+> "The session was engaging, interactive, and thought-provoking. It brought together business teams and ERG leaders for meaningful conversations about AI, accessibility, and inclusion in the workplace."
 >
 > — Emerson Leadership Team
 
