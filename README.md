@@ -56,12 +56,13 @@ This repository connects strategy, execution, and real-world implementation of A
 - UT Dallas Project Management Symposium
 - Project Bites Events 
 
-Audience Reach
+#### Audience Reach
+
 - 21,000+ PMI on-demand webinar views
-- 4.6/5 viewer ratings (PMI on-demand webinar)
+- 4.6/5 viewer rating (PMI on-demand webinar)
 - 500+ participants, AgileCon 2024 (reported by International Institute for Learning)
-- 481 delegates across 14 PMI chapters, Project Bites professional development training events
-- 81% “Awesome” or “Very Good”, PMI chapter audience evaluation, Project Bites event
+- 481 delegates across 14 PMI chapters through Project Bites professional development events
+- 81% "Awesome" or "Very Good" audience evaluation rating at a PMI chapter Project Bites event
   
 ---
 
