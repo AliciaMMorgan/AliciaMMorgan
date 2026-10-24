@@ -125,7 +125,7 @@ Facilitated an enterprise AI adoption workshop exploring workforce readiness, ac
 >
 > — Emerson Leadership Team
 
-Additional Resources:
+**Additional Resources**
 - Digital Transformation & AI Adoption: https://aliciammorgan.com/digital-transformation-ai-adoption-workforce-enablement/
 - Innovation in Action Repository: https://github.com/AliciaMMorgan/Innovation-In-Action
 
