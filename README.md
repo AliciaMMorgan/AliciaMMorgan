@@ -92,6 +92,20 @@ This ecosystem moves from knowledge to execution to trust:
 - **Applied AI Architecture:** Building and documenting cross-industry agent prototypes in **Microsoft Azure AI Foundry**, including the Operational Excellence Toolkit’s Tableau dashboard sample.
 - **Mentorship & Community:** Supporting mission-driven teams with human-in-the-loop validation and responsible AI adoption.
 
+## Featured Enterprise AI Adoption Work
+
+### Emerson | AI for Everyone: Turning Intelligence Into Inclusion
+
+Facilitated an enterprise AI adoption workshop exploring workforce readiness, accessibility, governance, responsible AI use, and human-centered implementation.
+
+▶️ Click the image to watch discussion highlights
+
+[![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
+
+Additional Resources:
+- Digital Transformation & AI Adoption: https://aliciammorgan.com/digital-transformation-ai-adoption-workforce-enablement/
+- Innovation in Action Repository: https://github.com/AliciaMMorgan/Innovation-In-Action
+
   
 ## Ask me about AI adoption, human-in-the-loop AI governance, and digital transformation strategy.
 
