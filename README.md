@@ -6,7 +6,7 @@ I help organizations navigate transformation by aligning people, processes, and 
 
 **How I Lead**
 
- Build trust → Observe and understand the work → Collaborate and design practical, human-centered solutions → Enable meaningful change
+Build trust → Observe and understand the work → Collaborate and design practical, human-centered solutions → Enable meaningful change
 
 My work focuses on AI-enabled transformation, digital modernization, and cross-platform integration. It improves how organizations operate while preserving their foundation and accelerating execution.
 
