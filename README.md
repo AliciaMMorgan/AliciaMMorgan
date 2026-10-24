@@ -107,7 +107,7 @@ This ecosystem moves from knowledge to execution to trust:
 
 ### Emerson | AI for Everyone: Turning Intelligence Into Inclusion
 
-Facilitated an enterprise AI adoption workshop exploring workforce readiness, accessibility, governance, responsible AI use, and human-centered implementation.
+Facilitated an enterprise AI adoption workshop at Emerson Process Management Regulator Technologies in McKinney, TX. It explores workforce readiness, accessibility, governance, responsible AI use, and human-centered implementation.
 
 ▶️ Click the image to watch discussion highlights
 
