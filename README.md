@@ -47,12 +47,22 @@ This repository connects strategy, execution, and real-world implementation of A
 
 ## External Recognition
 
-- TEDx Speaker  
-- PMI Webinar Contributor (20,000+ viewers and 4+ Star Rating)
-- Dallas Business Journal Women in Tech Honoree
-- UT Dallas Project Management Symposium Panelist Speaker   
-- International Institute for Learning, International Project Management Day Speaker  
+- TEDx Plano
+- Project Management Institute (PMI) Webinar
+- Emerson
+- Society of Women Engineers (SWE), WE23 Inspirational Insights Session
+- Executive Women in Texas Government (EWTG) Conference, IBM Sponsored Presentation
+- International Institute for Learning (IIL), AgileCon and IPM Day
+- UT Dallas Project Management Symposium
+- Project Bites Events 
 
+Audience Reach
+- 21,000+ PMI on-demand webinar views
+- 4.6/5 viewer ratings (PMI on-demand webinar)
+- 500+ participants, AgileCon 2024 (reported by International Institute for Learning)
+- 481 delegates across 14 PMI chapters, Project Bites professional development training events
+- 81% “Awesome” or “Very Good”, PMI chapter audience evaluation, Project Bites event
+  
 ---
 
 ## What Problem I Solve
@@ -101,6 +111,19 @@ Facilitated an enterprise AI adoption workshop exploring workforce readiness, ac
 ▶️ Click the image to watch discussion highlights
 
 [![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
+
+#### Participant Feedback
+> "It was a great presentation, very engaging and informative..."
+>
+> — Emerson Workshop Participant
+
+> "The session provided practical guidance..."
+>
+> — Emerson Workshop Participant
+
+> "The session was engaging, interactive, and thought-provoking..."
+>
+> — Emerson Leadership Team
 
 Additional Resources:
 - Digital Transformation & AI Adoption: https://aliciammorgan.com/digital-transformation-ai-adoption-workforce-enablement/
